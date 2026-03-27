@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently, I work as a **Junior Software Developer** at the startup known as ***Rock Encantech***, the largest Encantech in Brazil. I mainly operate in the CRM and Consumer Science area, developing solutions for retail by addressing retailers' needs and working on internal projects.
+Currently, I work as a **Software Developer** at the startup known as ***Rock Encantech***, the largest Encantech in Brazil. I mainly operate in the CRM and Consumer Science area, developing solutions for retail by addressing retailers' needs and working on internal projects.
 
 I'm driven by curiosity—so I study everything I find interesting and challenging, whether it's a new language, framework, or technology tool (software or hardware). At the moment, I'm learning Rust and technologies related to IaC (Infrastructure as Code) for automation.
 
